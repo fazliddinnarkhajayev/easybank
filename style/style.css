@@ -312,7 +312,7 @@ only screen and (                min-resolution: 2dppx) {
   text-decoration: none;
   width: 255px;
 }
-.article-menu-:hover{
+.article-menu-person:hover{
   color: #30C88F;
 }
 .article-menu-person{
